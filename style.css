@@ -6,3 +6,8 @@ body {
 ul {
     list-style-type: none;
 }
+
+footer {
+    font-size: 0.5em;
+    color: dimgray;
+}
